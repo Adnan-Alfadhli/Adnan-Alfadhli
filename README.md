@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--- you profile rank --->
 <a href="https://Adnan-Alfadhli.github.io">
-  <img align="left" src="https://github-readme-stats.alexxxdev.vercel.app/api?username=hAlmousawi12&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.alexxxdev.vercel.app/api?username=Adnan-Alfadhli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 
 
 <!--- most used languages --->
