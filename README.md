@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--- you profile rank --->
+<a href="https://Adnan-Alfadhli.github.io">
+  <img align="left" src="https://github-readme-stats.alexxxdev.vercel.app/api?username=hAlmousawi12&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+
+<!--- most used languages --->
+<img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=hAlmousawi12&layout=compact&card_width=250&hide_border=true&theme=tokyonight" />
+</a>
