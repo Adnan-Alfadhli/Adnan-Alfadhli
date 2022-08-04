@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--- you profile rank --->
-<a href="https://Adnan-Alfadhli.github.io">
+<a href="https://adnanalfadhli.com">
   <img align="left" src="https://github-readme-stats.alexxxdev.vercel.app/api?username=Adnan-Alfadhli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 
 
